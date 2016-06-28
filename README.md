@@ -8,13 +8,13 @@ De posse das variáveis:  temperatura do ar e umidade relativa, medidas com repe
 
 ## Material Necessário
 
-* Sensor de precisão de temperatura LM35 
-* Sensor de Umidade e Temperatura DHT11
-*Display 7 segmentos
-*3 Leds(de cores)
-*10 Resistores Variados
-* Bateria 9v
-*Placa Iot Micro Usb esp8862
+* 1 Sensor de temperatura LM35 
+* 1 Sensor de Umidade e Temperatura DHT11
+* 2 Arduino Pro mini
+* 1 Conversor FTDI USB
+* 3 Resistores Variados
+* 1 Bateria 9v recarregável
+* 2 modulos NRF24L01+
 
 ## Tarefas a fazer
 
@@ -27,4 +27,7 @@ De posse das variáveis:  temperatura do ar e umidade relativa, medidas com repe
  - Testar o funcionamento do projeto
  - 
 
-## Montagem
+## Componentes do Grupo
+
+- Cleyton da Silva Vitor
+- Edson Cavalcanti de Morais
